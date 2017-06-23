@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">POS_App</string>
+    <string name="enter_password_here">Enter password here</string>
+    <string name="enter_the_user_name">Enter the User Name</string>
+    <string name="login">LOGIN</string>
+    <string name="sign_up">SIGN UP</string>
+</resources>
